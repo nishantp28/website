@@ -1,0 +1,29 @@
+---
+title: "Nishant P."
+about:
+  template: jolla
+  image: profile.jpg # Replace with your actual photo filename later
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/yourhandle
+    - icon: github
+      text: Github
+      href: https://github.com/yourusername
+    - icon: instagram
+      text: Instagram
+      href: https://instagram.com/yourprofile
+---
+
+## Scientist. Musician. Dancer.
+
+I am a PhD student in **Computational Biology**, currently based in [City/University]. My research lives at the intersection of microbial genomics and high-throughput data analysis, where I work on decoding the chemical conversations of soil bacteria.
+
+Beyond the lab, my life is defined by the rhythms of Indian classical arts. As a **Hindustani Classical Musician** and **Kathak Dancer**, I find that the precision of a *Raag* or the mathematical complexity of a *Taal* mirrors the structured logic of the biological systems I study.
+
+### What I'm working on:
+* **Research:** Deciphering mass spectrometry data for microbial interactions.
+* **Music:** Exploring the depth of [Your Specific Raag interests].
+* **Life:** Training for my next race and experimenting with low-carb sourdough.
+
+[Contact Me](mailto:your-email@example.com)
