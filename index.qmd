@@ -1,15 +1,15 @@
 ---
-title: "Nishant P."
+title: "Nishant Panicker"
 about:
   template: jolla
-  image: Profile.jpg # Replace with your actual photo filename later
+  image: Profile.jpg
   links:
-    - icon: facebook
-      text: Facebook
-      href: https://www.facebook.com/nishantpmusic
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/nishant-panicker
     - icon: github
       text: Github
-      href: https://github.com/yourusername
+      href: https://github.com/nishantp28
     - icon: instagram
       text: Instagram
       href: https://instagram.com/nishantpmusic
@@ -17,13 +17,13 @@ about:
 
 ## Scientist. Musician. Dancer.
 
-I am a PhD student in **Computational Biology**, currently based in [City/University]. My research lives at the intersection of microbial genomics and high-throughput data analysis, where I work on decoding the chemical conversations of soil bacteria.
+I am a PhD student in **Integrative Systems Biology** at the **University of Pittsburgh**. My research lives at the intersection of microbiology, genomics and high-throughput data analysis, where I work on decrypting the chemical interactions between soil bacteria.
 
-Beyond the lab, my life is defined by the rhythms of Indian classical arts. As a **Hindustani Classical Musician** and **Kathak Dancer**, I find that the precision of a *Raag* or the mathematical complexity of a *Taal* mirrors the structured logic of the biological systems I study.
+Beyond the lab, my life is defined by the the Indian classical arts. I am a trained **Hindustani Classical Musician** and **Kathak Dancer**, and I believe that the boundaries between disciplines are fading—whether in science or art.
 
 ### What I'm working on:
-* **Research:** Deciphering mass spectrometry data for microbial interactions.
-* **Music:** Exploring the depth of [Your Specific Raag interests].
-* **Life:** Training for my next race and experimenting with low-carb sourdough.
+* **Research:** Deciphering patterns in mass spectrometry data indicative of microbial interactions.
+* **Music & Dance:** Exploring the intricacies of India's ancient traditions and their modern-day relevance.
+* **Hobbies:** Cooking, running, meditating, and spending time on the beach.
 
-[Contact Me](mailto:your-email@example.com)
+[Contact Me](mailto:nishant.panicker@pitt.edu)

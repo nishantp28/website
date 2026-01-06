@@ -1,0 +1,23 @@
+---
+title: "Research"
+---
+
+# Research Focus
+
+My work revolves around **decrypting how soil microorganisms communicate** through a wide variety of small molecules. This chemical language is essential for understanding their functional roles and ecological dynamics.
+
+I utilize a **3D printed platform** and **high-throughput mass spectrometry** to eavesdrop on interactions between pairs of bacteria. This allows me to infer the context-specific language of microbial communication for a large panel of soil bacteria.
+
+# Education
+
+### University of Pittsburgh
+**PhD in Integrative Systems Biology** | *In Progress*
+
+### Azim Premji University
+**B.Sc. in Biology (Minor in Data Science)** | *2020*
+
+# Representative Publications
+
+- **Adhikari, A., Goregaonkar, N., Narayanan, R., Panicker, N., & Ramamoorthy, N.** (2020).  
+  ["Manufactured Maladies: Lives and Livelihoods of Migrant Workers During COVID-19 Lockdown in India."](https://doi.org/10.1007/s41027-020-00282-x)  
+  *The Indian Journal of Labour Economics*, 63(4), 969-997.
