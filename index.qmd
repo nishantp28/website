@@ -2,7 +2,7 @@
 title: "Nishant P."
 about:
   template: jolla
-  image: profile.jpg # Replace with your actual photo filename later
+  image: Profile.jpg # Replace with your actual photo filename later
   links:
     - icon: twitter
       text: Twitter
