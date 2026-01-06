@@ -1,0 +1,26 @@
+/* Minimalist tweaks */
+body {
+  font-family: 'Inter', -apple-system, sans-serif;
+  color: #333;
+}
+
+.navbar {
+  border-bottom: 1px solid #eee;
+  padding: 1rem 0;
+}
+
+h1, h2, h3 {
+  font-weight: 300; /* Makes headings look more elegant */
+  letter-spacing: -0.5px;
+}
+
+.about-link {
+  color: #555 !important;
+  border: 1px solid #ccc !important;
+  border-radius: 5px;
+  padding: 5px 15px;
+}
+
+.about-link:hover {
+  background-color: #f8f9fa;
+}
