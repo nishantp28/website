@@ -1,0 +1,26 @@
+---
+title: "Music"
+---
+
+# A Musical Journey
+
+Music is more than just a hobby; it's a language I use to explore emotion and storytelling. Whether I'm on stage or in the studio, the goal is always to connect.
+
+## Instruments & Roles
+
+- **Guitar**: Rhythm & Lead (Acoustic/Electric)
+- **Vocals**: Tenor/Baritone range
+- **Production**: Logic Pro X, Ableton Live
+
+## Featured Works
+
+::: {.callout-note appearance="simple"}
+## Listen Now
+Check out my latest tracks on [SoundCloud](#) or watch performances on [YouTube](#).
+:::
+
+### Originals
+*Coming soon...*
+
+### Covers & Collabs
+*Coming soon...*

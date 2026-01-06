@@ -1,0 +1,32 @@
+---
+title: "Dance"
+---
+
+# Rhythm & Movement
+
+Dance is the physical expression of the music I love. It's about precision, flow, and the raw energy of the beat.
+
+## Styles
+
+::: {.grid}
+
+::: {.g-col-6}
+### Hip-Hop
+Focusing on isolation, groove, and musicality. Influenced by old school and modern urban styles.
+:::
+
+::: {.g-col-6}
+### Contemporary
+Exploring fluidity and narrative through movement. 
+:::
+
+:::
+
+## Gallery
+
+::: {.callout-tip}
+## Watch
+Videos of recent performances will be uploaded here shortly.
+:::
+
+> "Dance is the hidden language of the soul."
