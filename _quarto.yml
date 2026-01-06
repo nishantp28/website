@@ -1,0 +1,34 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Your Name"
+  description: "Researcher, Musician, and Dancer"
+  navbar:
+    background: white # Keeps it minimalist
+    foreground: dark
+    left:
+      - text: "Research"
+        href: research.qmd
+      - text: "Music"
+        href: music.qmd
+      - text: "Dance"
+        href: dance.qmd
+      - text: "Living" # Includes cooking and running
+        href: living.qmd
+    right:
+      - text: "CV"
+        icon: file-pdf
+        href: assets/cv.pdf
+      - icon: instagram
+        href: https://instagram.com/yourprofile
+      - icon: github
+        href: https://github.com/yourusername
+
+format:
+  html:
+    theme: 
+      light: flatly # A very clean, academic-friendly theme
+    css: styles.css
+    toc: true # Adds a table of contents to your research/writing pages
