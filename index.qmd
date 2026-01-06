@@ -4,15 +4,15 @@ about:
   template: jolla
   image: Profile.jpg # Replace with your actual photo filename later
   links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/yourhandle
+    - icon: facebook
+      text: Facebook
+      href: https://www.facebook.com/nishantpmusic
     - icon: github
       text: Github
       href: https://github.com/yourusername
     - icon: instagram
       text: Instagram
-      href: https://instagram.com/yourprofile
+      href: https://instagram.com/nishantpmusic
 ---
 
 ## Scientist. Musician. Dancer.
