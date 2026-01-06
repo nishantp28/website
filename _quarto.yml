@@ -6,8 +6,8 @@ website:
   title: "Nishant Panicker"
   description: "Researcher, Musician, and Dancer"
   navbar:
-    background: white # Keeps it minimalist
-    foreground: dark
+    background: primary # Matches the cyborg theme better
+    foreground: light
     left:
       - text: "Research"
         href: research.qmd
@@ -29,6 +29,6 @@ website:
 format:
   html:
     theme: 
-      light: flatly # A very clean, academic-friendly theme
+      dark: cyborg
     css: styles.css
     toc: true # Adds a table of contents to your research/writing pages
