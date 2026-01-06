@@ -1,0 +1,22 @@
+---
+title: "Living"
+---
+
+## Kitchen Chronicles
+A collection of my experiments with baking and low-carb cooking.
+
+::: {layout-ncol=3}
+![Low-carb Almond Flour Bread](assets/bread.jpg){group="cooking"}
+![Experiments with Sourdough](assets/sourdough.jpg){group="cooking"}
+![Weekend Meal Prep](assets/mealprep.jpg){group="cooking"}
+:::
+
+---
+
+## Running Log
+My journey through the miles.
+
+| Date | Race | Distance | Location |
+|------|------|----------|----------|
+| 2025 | [Race Name] | Half Marathon | [City] |
+| 2024 | [Race Name] | 10K | [City] |
