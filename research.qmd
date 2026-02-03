@@ -6,7 +6,7 @@ title: "Research"
 
 My work revolves around **decrypting how soil microorganisms communicate** through a wide variety of small molecules. This chemical language is essential for understanding their functional roles and ecological dynamics.
 
-I utilize a **3D printed platform** and **high-throughput mass spectrometry** to eavesdrop on interactions between pairs of bacteria. This allows me to infer the context-specific language of microbial communication for a large panel of soil bacteria.
+I utilize a **3D printed platform** and **high-throughput mass spectrometry** to eavesdrop on interactions between pairs of bacterial strains. This allows me to infer the context-specific language of microbial communication for a large panel of soil bacteria.
 
 # Education
 
